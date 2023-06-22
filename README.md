@@ -1,4 +1,5 @@
 # Spring Boot JPA Project
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/gabrielreisresende/springboot-jpa/blob/main/LICENSE)
 
 Este projeto é um exemplo simples de uma aplicação Spring Boot com o uso do Spring Data JPA.
 
