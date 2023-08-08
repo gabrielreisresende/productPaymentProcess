@@ -1,11 +1,9 @@
 # Spring Boot JPA Project
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/gabrielreisresende/springboot-jpa/blob/main/LICENSE)
 
-Este projeto é um exemplo simples de uma aplicação Spring Boot com o uso do Spring Data JPA.
-
 ## Descrição
 
-Este projeto demonstra a configuração básica de uma aplicação Spring Boot que utiliza o Spring Data JPA para persistência de dados em um banco de dados relacional.
+Projeto para gerenciar o processo de pagamento de um produto utilizando Spring Boot para desenvolvimento e MySQL como base de dados. A aplicação conta com desenvolvimento em camadas Repositories, Services e Controllers, diversos relacionamentos entre as entidades e endpoints importantes para o usuário.
 
 ## Tecnologias Utilizadas
 
@@ -13,6 +11,7 @@ Este projeto demonstra a configuração básica de uma aplicação Spring Boot q
 - Spring Boot
 - Spring Data JPA
 - Maven
+- MySQL
 
 ## Funcionalidades
 
